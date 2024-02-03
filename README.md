@@ -26,7 +26,7 @@ Replace the placeholder values in the script:
 - Replace **"Replace it with your given name"** with your actual given name.
 - Replace **"Replace it with your surname"** with your actual surname.
 - Replace **"Replace it with your DOB"** with your actual date of birth.
-- Adjust the target date in the script ("2024-02-07") as needed.
+- Adjust the target date in the script ("2024-02-07") as needed. The target date can be the date of your current appointment or the deadline for your medical check. 
   
 Run the script:
 ```
